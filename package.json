@@ -1,0 +1,22 @@
+{
+  "name": "edurpui",
+  "version": "1.0.0",
+  "description": "something",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vipinhari8/EduRpUI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vipinhari8/EduRpUI/issues"
+  },
+  "homepage": "https://github.com/vipinhari8/EduRpUI#readme",
+  "dependencies": {
+    "angular": "^1.6.5"
+  }
+}
